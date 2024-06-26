@@ -1,3 +1,5 @@
+-- 备份1-表结构
+
 -- 插入数据用的复制商品表
 CREATE TABLE ProductCopy
 (product_id      CHAR(4)      NOT NULL,
